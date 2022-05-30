@@ -16,9 +16,9 @@
 # **Leituras Kindle / Amazon Web / Kindle App**
 <br>
 
-|[**TimeDev-Muito<br>mais do que código**](https://read.amazon.com/reader?asin=B096W4SJHM&ref_=kwl_kr_iv_rec_1&language=pt-BR)|[**Docker**](https://read.amazon.com/reader?asin=B07J1L31L4&ref_=kwl_kr_iv_rec_4&language=en-US)|[**Soft skills**]()|[**Comunicação<br>não-violenta**](https://www.amazon.com.br/Comunica%C3%A7%C3%A3o-n%C3%A3o-violenta-relacionamentos-profissionais-ebook/dp/B097YV5ZL7)|[**Scrum Infra**](https://www.amazon.com.br/SCRUM-equipes-Infraestrutura-pr%C3%A1ticos-Salengue-ebook/dp/B01M10DDR4)|  |  |
+|[**TimeDev-Muito<br>mais do que código**](https://read.amazon.com/reader?asin=B096W4SJHM&ref_=kwl_kr_iv_rec_1&language=pt-BR)|[**Docker**](https://read.amazon.com/reader?asin=B07J1L31L4&ref_=kwl_kr_iv_rec_4&language=en-US)|[**Soft skills**]()|[**Comunicação<br>não-violenta**](https://www.amazon.com.br/Comunica%C3%A7%C3%A3o-n%C3%A3o-violenta-relacionamentos-profissionais-ebook/dp/B097YV5ZL7)|[**Scrum Infra**](https://www.amazon.com.br/SCRUM-equipes-Infraestrutura-pr%C3%A1ticos-Salengue-ebook/dp/B01M10DDR4)|[**Dale Carnegie**](https://www.amazon.com.br/Como-fazer-amigos-influenciar-pessoas-ebook/dp/B07YLX1NHY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)  |  |
 |--|--|--|--|--|--|--|
-| ![2022-04-16_11-07.png](/.attachments/2022-04-16_11-07-b174c9ff-2c5f-4c3a-8e51-01ca7b296172.png)|![2022-04-30_07-23.png](/.attachments/2022-04-30_07-23-362bbbde-133f-4077-a712-4d128cfe17c2.png)|![71gW4G9ZNBS.jpg](/.attachments/71gW4G9ZNBS-87af93cf-0b65-40a5-b095-3eb5b01ee075.jpg)|![71vfutuuhnL.jpg](/.attachments/71vfutuuhnL-abdba82d-9b40-4f62-a20a-47d893ad6b52.jpg)|![2022-04-10_07-59.png](/.attachments/2022-04-10_07-59-3bf53d1c-ce3c-48f8-b87c-b030e2d2503b.png)|  |
+| ![2022-04-16_11-07.png](/.attachments/2022-04-16_11-07-b174c9ff-2c5f-4c3a-8e51-01ca7b296172.png)|![2022-04-30_07-23.png](/.attachments/2022-04-30_07-23-362bbbde-133f-4077-a712-4d128cfe17c2.png)|![71gW4G9ZNBS.jpg](/.attachments/71gW4G9ZNBS-87af93cf-0b65-40a5-b095-3eb5b01ee075.jpg)|![71vfutuuhnL.jpg](/.attachments/71vfutuuhnL-abdba82d-9b40-4f62-a20a-47d893ad6b52.jpg)|![2022-04-10_07-59.png](/.attachments/2022-04-10_07-59-3bf53d1c-ce3c-48f8-b87c-b030e2d2503b.png)|![Dale Carnegie](/.attachments/81kImHC1lsL-a10f8df3-b86b-4cff-b0ac-8acde6bdb23e.jpg)| |
 |  |  |  |  |  |  |  |
 
 
