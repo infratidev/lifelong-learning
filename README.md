@@ -1,5 +1,5 @@
-# Articles, Ebooks, Podcasts, Channels(Youtube,Discord,Twitch). 
-# Contents about Devops, SRE, IT
+## Articles, Ebooks, Podcasts, Channels(Youtube,Discord,Twitch). 
+## Contents about Devops, SRE, IT
 
 ## Contents 
   - [Courses](Courses/Courses.md)
