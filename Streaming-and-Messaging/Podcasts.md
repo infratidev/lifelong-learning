@@ -1,0 +1,22 @@
+# Podcasts recomendados
+<br>
+
+**Spotify**
+
+
+|[**SRE Talks**](https://open.spotify.com/show/54B7FdCmUrwHSXqsVGgDbs)|[**Adventures in Devops**](https://open.spotify.com/show/7h0KN1wSukqOmQVvMmAfan)|[**InterSystems Brasil**](https://open.spotify.com/show/1pYPt4WdDrZxhMpiYL3fWF)|[**CloudSkills**](https://open.spotify.com/show/3VTKtrK8b5kZim2F8KYfPJ)|[**World Wide Technology**](https://open.spotify.com/show/0bAoDF2oD8Y14pEHaXrh89)|[**DevOps Paradox**](https://open.spotify.com/show/6VRDZ6E89JfNY9BCANx70m)|[**Entre Chaves**](https://open.spotify.com/show/1ub9YZKamdMKdKbLia4YrX)|
+|--|--|--|--|--|--|--|
+|![2022-04-30_13-27.png](https://drive.google.com/uc?export=view&id=1XRLUO5g7xC7Xkya060Gz5ripIf3tW22Y)|![2022-04-30_13-27_1.png](https://drive.google.com/uc?export=view&id=1PlqCKtYIrSQGZ8VILoUV_WrLB0kX0Pch)|![2022-04-30_13-27_2.png](https://drive.google.com/uc?export=view&id=1miA-mld_pIPlUqc0I8cPfl_uPd_zKMO5)|![2022-04-30_13-27_3.png](https://drive.google.com/uc?export=view&id=1N_36LfkSt1DeUsqipzr-LGBobyIAXoXL)|![2022-04-30_13-27_4.png](https://drive.google.com/uc?export=view&id=1mb-bBvDIXT9j4Zy-z-3IgNU6flZshm2t)|![2022-04-30_13-28.png](https://drive.google.com/uc?export=view&id=1luHiC5oq5_kC0bL1L_HumbPZ6znZf18L)|![2022-04-30_13-28_1.png](https://drive.google.com/uc?export=view&id=1lVbSQ2O3SpzUL0aNr3p-0Y3rCegjKIxO)|
+|[**Ramon Durães**](https://open.spotify.com/show/1cgPBZaaGMXebqQNoIiW12)|[**MIT Sloan**](https://open.spotify.com/show/0s8zR37hS3E3TAVS3dpsyH)|[**Eu DevOps**](https://open.spotify.com/show/4iHkzt3CSPHmdHd5jNFxrr)|[**Da RedeCast**](https://open.spotify.com/show/28IWUqZPTXYj0bbWuOJrcZ)|[**Build Failed Podcast**](https://open.spotify.com/show/6sOFIDT8ELXygixjYBTAb2)|[**Cabeça de Lab**](https://open.spotify.com/show/6jYjcj4oQ31J85jGhbiRkK)|[**ZupCast**](https://open.spotify.com/show/01ZXvnvBJ6GHlt3QOAUAfB)|
+|![2022-04-30_13-32.png](https://drive.google.com/uc?export=view&id=1g3t06oD-fo4g98_inskzLGp992ddGors)|![2022-04-30_13-32_1.png](https://drive.google.com/uc?export=view&id=1NaM7bJZTPqOFkh4ghau1cE4v6lXKZKpV)|![2022-04-30_13-32_2.png](https://drive.google.com/uc?export=view&id=1vMFOCdNUTHBa6zx-JHSxZn_Q4Pyjut2-)|![2022-04-30_13-32_3.png](https://drive.google.com/uc?export=view&id=1hzQEGPTUVIUPne20kK3uu0xlRwzJDkUZ)|![2022-04-30_13-32_4.png](https://drive.google.com/uc?export=view&id=1HzLP4TwG7WDknaXn4x3e_9GT9kNYbayc)|![2022-04-30_13-33.png](https://drive.google.com/uc?export=view&id=1verDSSFzDPomvGkpOVnYxLCTJ7zdv689)|![2022-04-30_13-33_1.png](https://drive.google.com/uc?export=view&id=1TWNAQanbtGOEt1hHvfcZSw9FyT-PN8hi)|
+|[**Café Debug**](https://open.spotify.com/show/3uqyj3GlhBHp1IJN8KJ1xU)|[**DevCast**](https://open.spotify.com/show/48gK33FI19AnanSRKhSuoQ)|[**KubiCast**](https://open.spotify.com/show/7x2OHOUAaOnTjlSwBHNAjN)|[**FalaDev**](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW)|[**Lambda3**](https://open.spotify.com/show/3JaY0FNeylfy86nFG8qbfi)|[**Pisani da ArcH**](https://open.spotify.com/show/5V3KubyXhh27qHWqwP9JOJ)|[**The Shift**](https://open.spotify.com/show/1elaWyEUpkL37wjtJ4fgCS)|
+|![2022-04-30_13-36.png](https://drive.google.com/uc?export=view&id=1r0iW4pqfIDKtNZveaGHWGscJ0pg0tvSa)|![2022-04-30_13-37.png](https://drive.google.com/uc?export=view&id=16HxDvBHwjNl_V9THn7qAMOtVBJz-Z9ph)|![2022-04-30_13-37_1.png](https://drive.google.com/uc?export=view&id=1Yj9xNZO32HLRs9O8axeiQgfP8lxz-vE4)|![2022-04-30_13-37_2.png](https://drive.google.com/uc?export=view&id=1Z-m5ScY7QWpeSEn2Bf6mAKyJw9IIDRGE)|![2022-04-30_13-37_3.png](https://drive.google.com/uc?export=view&id=1pObVoyKJBrS-6cyWnHN9x8NJneyyfYCM)|![2022-04-30_13-37_4.png](https://drive.google.com/uc?export=view&id=17a3TacIPtSmXtuNTZTrmdrd9UuxvL3Fo)|![2022-04-30_13-37_5.png](https://drive.google.com/uc?export=view&id=1YEBmVaFNtkvzH4Z_OZf_zBhCtm5t7gTG)|
+|[**Hipsters Ponto Tech**](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf)|[**Tech & Biz Elemar Jr**](https://open.spotify.com/show/0ZaI3s6iERIUw081gQLIvw)|[**Tech Leadership Rocks**](https://open.spotify.com/show/166vlIA456SIjOrd1L96ay)|  |  |  |  |
+|![2022-04-30_13-39.png](https://drive.google.com/uc?export=view&id=1NypZFbJU9Hzq63WHHf34Fzk7YzeuTu3-)|![2022-08-19_16-24.png](https://drive.google.com/uc?export=view&id=1QGZpOFTpAjjbozS5Z3BgvnR04GvPqbtg)|![2022-08-19_16-27.png](https://drive.google.com/uc?export=view&id=1iQ7EK8ROcGz7ujJgq6GdvCYxMpk38VWZ)|  |  |  |  |
+|  |  |  |  |  |  |  |
+
+<br>
+
+**Google**
+
+[SRE Prodcast](https://sre.google/prodcast/)
