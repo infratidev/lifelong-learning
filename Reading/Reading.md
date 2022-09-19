@@ -26,9 +26,9 @@
 # Repositórios com vários links de livros, ebooks e ferramentas
 <br>
 
-|[**Awesome-SRE**](https://github.com/dastergon/awesome-sre)|[**SmashSe**](https://github.com/smashse/playbook/blob/master/HOWTO/SOURCES/SOURCES.md)|[**MichaelCade<br>90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)|[VinijMoura<br>Azure-DevOps](https://github.com/vinijmoura/Azure-DevOps)|[Toniblyx](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|  |  |
+|[**Awesome-SRE**](https://github.com/dastergon/awesome-sre)|[**SmashSe**](https://github.com/smashse/playbook/blob/master/HOWTO/SOURCES/SOURCES.md)|[**MichaelCade<br>90DaysOfDevOps**](https://github.com/MichaelCade/90DaysOfDevOps)|[VinijMoura<br>Azure-DevOps](https://github.com/vinijmoura/Azure-DevOps)|[Toniblyx](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)|[Mentoriaiac Awesome Devops](https://github.com/mentoriaiac/awesome-devops)|  |
 |--|--|--|--|--|--|--|
-|![2022-04-30_12-19.png](https://drive.google.com/uc?export=view&id=17b4SaFE9JfyZ8ABSf4dzcje-niyz_I3L)|![2022-04-30_12-20.png](https://drive.google.com/uc?export=view&id=1OfyxtQhp0Qrl4fF7Gx4LRg_ef8XyH-gY)|![2022-04-30_12-21.png](https://drive.google.com/uc?export=view&id=1HauWvL6NLMHkLVl_p6fcdEfyysYPm83j)|![2022-04-30_12-22.png](https://drive.google.com/uc?export=view&id=1wWPYWfVKKv34NNKsxb6eio0Fuh7twNJW)|![2022-05-01_07-33.png](https://drive.google.com/uc?export=view&id=14xp-BDjrsTuXUC9mXU9S0A49eSn6d6FY)|  |  |
+|![2022-04-30_12-19.png](https://drive.google.com/uc?export=view&id=17b4SaFE9JfyZ8ABSf4dzcje-niyz_I3L)|![2022-04-30_12-20.png](https://drive.google.com/uc?export=view&id=1OfyxtQhp0Qrl4fF7Gx4LRg_ef8XyH-gY)|![2022-04-30_12-21.png](https://drive.google.com/uc?export=view&id=1HauWvL6NLMHkLVl_p6fcdEfyysYPm83j)|![2022-04-30_12-22.png](https://drive.google.com/uc?export=view&id=1wWPYWfVKKv34NNKsxb6eio0Fuh7twNJW)|![2022-05-01_07-33.png](https://drive.google.com/uc?export=view&id=14xp-BDjrsTuXUC9mXU9S0A49eSn6d6FY)|![2022-09-19_04-59.png](https://drive.google.com/uc?export=view&id=1en6jRAtmbPazW6yLgC99YuGCLJSN94Fh)  |  |
 |  |  |  |  |  |  |  |
 
 <br>
