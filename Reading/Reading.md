@@ -43,7 +43,9 @@
 |![2022-04-30_12-40.png](https://drive.google.com/uc?export=view&id=18SafrUwQVa0_xqpKrx2EULHiRhEvGYDU)|![2022-04-30_12-41.png](https://drive.google.com/uc?export=view&id=1kEJAXP6J2Lozw4uhJz3UsiAEw0uV-jhZ)|![2022-04-30_12-42.png](https://drive.google.com/uc?export=view&id=1bIG5SuwagD_2LpGOPqvSFv-zCKynWjev)|![2022-04-30_12-43.png](https://drive.google.com/uc?export=view&id=19MAFSflkB1s3ppaa5HaAKiVVYOv2xFyS)|![2022-04-30_12-44.png](https://drive.google.com/uc?export=view&id=1RoPMOTipd3sJjsYE8TuH5V2z5tVtZsrx)|![2022-04-30_20-11.png](https://drive.google.com/uc?export=view&id=1FXRlsq69JgmZAUK_bIJCspoZ8O_0P4K9)|![2022-04-30_20-14.png](https://drive.google.com/uc?export=view&id=1F-dr7XcAysEaFgcu1SyiHaKT8pBFsako)|
 |[**TFsec**](https://aquasecurity.github.io/tfsec/)|[**Trivy**](https://aquasecurity.github.io/trivy/)|[**Packer**](https://www.packer.io/)|[**Ansible Molecule**](https://molecule.readthedocs.io/en/latest/)|[**CIS**](https://downloads.cisecurity.org/#/)|[**Vault**](https://learn.hashicorp.com/vault)|[**ArcH Community**](https://one.archoffice.tech/home)|
 |![2022-04-30_20-16.png](https://drive.google.com/uc?export=view&id=1_wk2Zcu3jqWTqSy-Hir9D1XJ0fQL7giA)|![2022-04-30_20-19.png](https://drive.google.com/uc?export=view&id=1z5vXbNJnsJGRSoT6UxMH1E5UjH1GKZvc)|![2022-04-30_20-24.png](https://drive.google.com/uc?export=view&id=1CI2Y1j-C6H2uBy7lILjTZrp1eulXnwvg)|![2022-04-30_20-27.png](https://drive.google.com/uc?export=view&id=1g9KirnahI3UPLpGxM63zIhQJNAN-JPTC)|![2022-05-01_07-31.png](https://drive.google.com/uc?export=view&id=1ZvBH9ngtqrXiGbV1VmxyxvPTT9tiSM71)|![2022-05-01_07-46.png](https://drive.google.com/uc?export=view&id=1T7__raH3cf1F6BcGEw9M1ixG7yC2EDxf)|![Screenshot from 2022-05-04 07-02-34.png](https://drive.google.com/uc?export=view&id=1Vq8yPWxdCCZDFbAhDKX2rO9zqA3u_qmA)|
-||||||||
+|[**Leandro Damascena**](https://leandrodamascena.medium.com/)|||||||
+|![2022-09-25_07-05.png](https://drive.google.com/uc?export=view&id=1IAIhE7swhp21ysTfNthSRDUhI3TxBK61)|||||||
+
 
 <br>
 
