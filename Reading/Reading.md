@@ -10,7 +10,7 @@
 |![2022-05-12_13-52.png](https://drive.google.com/uc?export=view&id=1_ipV0JOHe4DVhzWgYTCZbDnw1JwpFbUo)|![2022-08-10_21-35.png](https://drive.google.com/uc?export=view&id=1jdjYvhcEo99M9-BERp5WCfUb4LD-Ae5C)|![2022-09-04_08-48.png](https://drive.google.com/uc?export=view&id=1X-u6NcO3Ybj206W4qJycpsDdNg2ycqhM)|![2022-09-11_16-56.png](https://drive.google.com/uc?export=view&id=1rjfak_A7EnNCwgWzPf8RxXSMGqzCWsce)  |![2022-09-13_20-34.png](https://drive.google.com/uc?export=view&id=1TqPHvYBiMYHv6pRcM2JUb-bOtsJGeg1q)|![2022-09-15_17-32.png](https://drive.google.com/uc?export=view&id=1onSLLjBgwwszdNStA4Ilh9ZaGag2V4Sf)|![2022-09-26_18-21.png](https://drive.google.com/uc?export=view&id=1N7uFVF4SnJlLukjCiqAvQv76nZwJ6afU)|
 |  |  |  |  |  |  |  |  
 
-<br>v
+<br>
 
 # Leituras Kindle / Amazon Web / Kindle App
 <br>
